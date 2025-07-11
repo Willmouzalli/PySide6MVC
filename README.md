@@ -126,7 +126,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## 📞 Contacto
 
-**[wmouzalli@gmail.com](mailto:wmouzalli@gmail.com)**
-**[Willmouzalli](https://github.com/Willmouzalli)**
+**Correo: [wmouzalli@gmail.com](mailto:wmouzalli@gmail.com)**
+**Github: [Willmouzalli](https://github.com/Willmouzalli)**
 
 ---
