@@ -3,8 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![PySide6](https://img.shields.io/badge/PySide6-Qt6-green.svg)
 ![MVC](https://img.shields.io/badge/Pattern-MVC-orange.svg)
-![GitHub Repo size](https://img.shields.io/github/repo-size/TU_USUARIO/NOMBRE_REPOSITORIO.svg)
-![GitHub license](https://img.shields.io/github/license/TU_USUARIO/NOMBRE_REPOSITORIO.svg)
+![GitHub Repo size](https://img.shields.io/github/repo-size/Willmouzalli/PySide6MVC.svg)
+![GitHub license](https://img.shields.io/github/license/Willmouzalli/PySide6MVC.svg)
 
 ---
 
@@ -39,7 +39,7 @@ It demonstrates best practices for structuring a PySide6 application, including:
 ---
 
 ## 📂 Estructura del Proyecto
-MVC/                           # Puedes cambiar el nombre (deberías) 
+MVC/                           
 ├── .git/                      # Repositorio Git
 ├── .gitignore                 # Archivos y directorios a ignorar por Git
 ├── config.py                  # Configuración de la aplicación (rutas DB, etc.)
