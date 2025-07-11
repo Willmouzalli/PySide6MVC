@@ -1,8 +1,17 @@
+# created by virtualenv automatically
+# Python
 __pycache__/
+*.pyc
+
+# Entornos virtuales
 .venv/
 venv/
-*.pyc
+
+# Archivos De PyCharm
 .idea/
+
+# Bases de datos y logs
 *.log
+*.sqlite
 *.sqlite3
 *.db
