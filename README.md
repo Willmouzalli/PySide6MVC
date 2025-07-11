@@ -39,6 +39,7 @@ It demonstrates best practices for structuring a PySide6 application, including:
 ---
 
 ## 📂 Estructura del Proyecto
+````
 MVC/                           
 ├── .git/                      # Repositorio Git
 ├── .gitignore                 # Archivos y directorios a ignorar por Git
@@ -57,6 +58,7 @@ MVC/
 │   └── main_window.py         # Ventana principal de la aplicación
 └── tests/                     # Pruebas unitarias (opcional)
 └── test_example.py
+````
 ---
 
 ## ⚙️ Configuración y Ejecución Local
