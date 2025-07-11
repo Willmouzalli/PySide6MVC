@@ -40,7 +40,7 @@ It demonstrates best practices for structuring a PySide6 application, including:
 
 ## 📂 Estructura del Proyecto
 ````
-MVC/                           
+MVC/                           # Nombre del proyecto (Puedes cambiarle el nombre)
 ├── .git/                      # Repositorio Git
 ├── .gitignore                 # Archivos y directorios a ignorar por Git
 ├── config.py                  # Configuración de la aplicación (rutas DB, etc.)
@@ -126,7 +126,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## 📞 Contacto
 
-**Willmouzalli - [wmouzalli@gmail.com](mailto:wmouzalli@gmail.com)**
-Enlace a tu Perfil de GitHub - [https://github.com/Willmouzalli](https://github.com/Willmouzalli)
+**[wmouzalli@gmail.com](mailto:wmouzalli@gmail.com)**
+**[Willmouzalli](https://github.com/Willmouzalli)**
 
 ---
